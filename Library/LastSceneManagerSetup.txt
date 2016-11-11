@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/AVProVideo/Demos/02_Demo_imGui.unity
+  isLoaded: 1
+  isActive: 1
